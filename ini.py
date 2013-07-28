@@ -30,5 +30,13 @@ def calculadora():
         print (" 16      areaT    Area de un Triangulo")       
         print ("-----------------------------")
         OP = input("Opcion -> ")
-        print ("Ok")      
+        print ("Ok")
+        if OP == "1":
+            print ("Suma")
+            a = input("Ingrese el primer nuemro :")
+            b = input(str (a) + " + ")
+            print (a+" + "+b +" = "+a + b )
+            tem = input("Pulse Cualquier tecla para continuar ...")
+        
+     
 calculadora()   
