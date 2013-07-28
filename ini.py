@@ -37,6 +37,18 @@ def calculadora():
             b = input(str (a) + " + ")
             print (a+" + "+b +" = "+a + b )
             tem = input("Pulse Cualquier tecla para continuar ...")
+        if OP == "2":
+            print ("Suma")
+            a = input("Ingrese el primer nuemro :")
+            b = input(str (a) + " + ")
+            print (a+" + "+b +" = "+a + b )
+            tem = input("Pulse Cualquier tecla para continuar ...")
+        if OP == "3":
+            print ("Suma")
+            a = input("Ingrese el primer nuemro :")
+            b = input(str (a) + " + ")
+            print (a+" + "+b +" = "+a + b )
+            tem = input("Pulse Cualquier tecla para continuar ...")    
         
      
 calculadora()   
