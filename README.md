@@ -1,7 +1,8 @@
-Calculador Basica Python
-Operaciones Basicas
+=============================================
 
-Opcion Simbolo  Operacion
+Calculador Basica  en Python
+
+
 
 
 
