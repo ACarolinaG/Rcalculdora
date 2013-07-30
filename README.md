@@ -36,3 +36,4 @@ Opcion Simbolo  Operacion
 15      areaC    Area de un Cudrada
 
 16      areaT    Area de un Triangulo
+
